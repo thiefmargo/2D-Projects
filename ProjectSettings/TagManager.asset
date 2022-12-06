@@ -11,7 +11,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Grass
   - 
   - Background
   - Enemy
@@ -52,4 +52,7 @@ TagManager:
     locked: 0
   - name: Button
     uniqueID: 330432941
+    locked: 0
+  - name: Grass
+    uniqueID: 883018165
     locked: 0
